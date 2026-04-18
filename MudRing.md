@@ -59,6 +59,11 @@ async function getLinks() {
 
 getLinks();
 ```
+or add this (preferable if you're on neocities)
+```html
+<script src="https://galisma.github.io/webring/links.js"></script>
+<script src="https://galisma.github.io/webring/script.js"></script>
+```
 3. add those links:
 ```html
 <a id="ring_previous">prev</a>
@@ -85,6 +90,8 @@ getLinks();
 - cyberjerk
 
 ## other ideas
+web sphere (2d ring)
+https://youtu.be/AGh5LM7Jmfk
 webchaos (not a ring but random sites)
 
 ## code
