@@ -98,6 +98,9 @@ https://allium.house/garden/onionring/
 https://lambchapel.neocities.org/resources/webstring
 https://larsfrommars.neocities.org/
 
+## fix for neocities
+https://corsfix.com/blog/fix-neocities-content-security-policy
+
 # buttons
 - everyone makes a button (galisma wants to see some juicy programmer art)
 - provide default button
