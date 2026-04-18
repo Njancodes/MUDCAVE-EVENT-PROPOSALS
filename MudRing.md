@@ -138,6 +138,7 @@ if we want to put something on the south pole, we can insert new members at posi
 - cybershpere
 - Vestisphere
 - websphere
+
 we can play on the fact it’s a globe
 - circumsphere
 - hemisphere
@@ -149,7 +150,7 @@ it would contain this:
 - how to join
 - the git repos
 - a list of all participants (or a link to the json)
-- possibly a [3d viewer of the sphere](#website_viewer)
+- possibly a [3d viewer of the sphere](#website-viewer)
 
 for differents moments in the year, the site theme may change.  
 
