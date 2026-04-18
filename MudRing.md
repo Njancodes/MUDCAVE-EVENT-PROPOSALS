@@ -8,11 +8,6 @@ https://github.com/galisma/webring
 <script src="https://galisma.github.io/webring/links.js"></script>
 <script src="https://galisma.github.io/webring/script.js"></script>
 ```
-or add this (preferable if you're on neocities)
-```html
-<script src="https://galisma.github.io/webring/links.js"></script>
-<script src="https://galisma.github.io/webring/script.js"></script>
-```
 3. add those links:
 ```html
 <a id="ring_previous">prev</a>
